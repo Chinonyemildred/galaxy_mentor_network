@@ -1,3 +1,4 @@
+
 tasks:
   - init: |
       make bundle-install
@@ -9,3 +10,7 @@ ports:
     onOpen: open-preview
     visibility: public
   
+
+vscode:
+  extensions:
+    - dbaeumer.vscode-eslint
