@@ -8,4 +8,8 @@ ports:
   - port: 4000
     onOpen: open-preview
     visibility: public
-  
+
+vscode:
+  extensions:
+    - dbaeumer.vscode-eslint  
+    
