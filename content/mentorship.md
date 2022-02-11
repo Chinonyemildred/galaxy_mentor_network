@@ -1,5 +1,5 @@
 ---
-id: about
+id: mentorship
 title: GMN Mentorship Guidelines
 ---
 
